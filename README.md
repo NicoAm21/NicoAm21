@@ -1,4 +1,12 @@
-### Hi there 👋
+### Nicolas Matassi
+#### I am Computer Science Student
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-I'm Nicolas from Belgium, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+Skills: PYTHON / JAVA / JS / HTML / CSS
+
+- 🔭 I’m currently working on my web design agency 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NicoAm21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nicolas-matassi-43a532225//)  
+
 

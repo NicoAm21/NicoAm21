@@ -39,6 +39,6 @@ Computer Science Graduate at the University of Leicester, I like to build fun pr
 
 
 ## Connect with me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicolas-matassi/))   
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicolas-matassi/)
 
 
